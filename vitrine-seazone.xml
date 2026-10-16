@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>Seazone</title>
+    <link>https://seazone.com.br</link>
+    <description>Imóveis para reservar e lançamentos para investir com gestão Seazone</description>
+
+    <!-- Lista única: 9 itens (6 imóveis para reservar + 3 lançamentos para investir) -->
+
+    <!-- Imóveis (6) -->
+    <item>
+      <g:id>LST0006</g:id>
+      <title>Apto centrinho da Lagoa rooftop c/ piscina · LST0006</title>
+      <link>https://seazone.com.br/acomodacoes/apto-centrinho-da-lagoa-rooftop-c-piscina-lst0006/5952/qualquer;semana/adults=1;kids=0;babies=0</link>
+      <description>Sua experiência premium no coração da Lagoa da Conceição! Este Studio Garden exclusivo é a tradução de conforto e estilo em Floripa, oferecendo uma cama queen, ar-condicionado e cozinha bem equipada.O lazer é exclusivo no rooftop com piscina, perfeito para rel</description>
+      <g:image_link>https://seazone.com.br/image/6931d62716cdf4dff7a3f173</g:image_link>
+      <g:brand>Seazone</g:brand>
+      <g:product_type>Reservas</g:product_type>
+      <g:availability>in stock</g:availability>
+    </item>
+    <item>
+      <g:id>LST0019</g:id>
+      <title>Apto centrinho da Lagoa rooftop c/ piscina · LST0019</title>
+      <link>https://seazone.com.br/acomodacoes/apto-centrinho-da-lagoa-rooftop-c-piscina-lst0019/5946/qualquer;semana/adults=1;kids=0;babies=0</link>
+      <description>Conforto contemporâneo com garden na Lagoa da Conceição! Este studio moderno oferece cama queen, Smart TV, ar-condicionado, cozinha equipada, espaço de jantar/ trabalho, Wi-Fi e um garden perfeito para momentos ao ar livre. Áreas comuns com piscina e rooftop g</description>
+      <g:image_link>https://seazone.com.br/image/6939891604fbefa0e6f3212d</g:image_link>
+      <g:brand>Seazone</g:brand>
+      <g:product_type>Reservas</g:product_type>
+      <g:availability>in stock</g:availability>
+    </item>
+    <item>
+      <g:id>LST0013</g:id>
+      <title>Apto centrinho da Lagoa rooftop c/ piscina · LST0013</title>
+      <link>https://seazone.com.br/acomodacoes/apto-centrinho-da-lagoa-rooftop-c-piscina-lst0013/5929/qualquer;semana/adults=1;kids=0;babies=0</link>
+      <description>Conforto e praticidade na charmosa Lagoa da Conceição! Este apartamento é ideal para quem busca uma experiência premium, oferecendo cama queen, ar-condicionado e cozinha bem equipada. O lazer é garantido no rooftop com piscina, perfeito para relaxar e apreciar</description>
+      <g:image_link>https://seazone.com.br/image/6949a474c0a853cc3878be2d</g:image_link>
+      <g:brand>Seazone</g:brand>
+      <g:product_type>Reservas</g:product_type>
+      <g:availability>in stock</g:availability>
+    </item>
+    <item>
+      <g:id>PSO1005</g:id>
+      <title>Estúdio Vista Lateral Mar 50m da Praia · PSO1005</title>
+      <link>https://seazone.com.br/acomodacoes/estudio-vista-lateral-mar-50m-da-praia-pso1005/4923/qualquer;semana/adults=1;kids=0;babies=0</link>
+      <description>Prepare-se para uma experiência incrível em Penha! Estúdio aconchegante a 50m da Praia da Fortaleza. Desfrute da vista mar lateral, relaxe em um ambiente com cama queen, ar-condicionado e smart TV. A cozinha é bem equipada para suas refeições. No condomínio, a</description>
+      <g:image_link>https://seazone.com.br/image/6871400d3af288fd82b60f7c</g:image_link>
+      <g:brand>Seazone</g:brand>
+      <g:product_type>Reservas</g:product_type>
+      <g:availability>in stock</g:availability>
+    </item>
+    <item>
+      <g:id>PSO0810</g:id>
+      <title>Studio c/ vista lateral mar a 50m da Praia · PSO0810</title>
+      <link>https://seazone.com.br/acomodacoes/studio-c-vista-lateral-mar-a-50m-da-praia-pso0810/5873/qualquer;semana/adults=1;kids=0;babies=0</link>
+      <description>Vista lateral para o mar e localização privilegiada! Studio moderno e bem planejado, em edifício beira-mar na Praia de Armação do Itapocorói. Conta com cama queen, sofá-cama, climatização, Smart TV, cozinha completa, bancada para refeições e varanda com vista</description>
+      <g:image_link>https://seazone.com.br/image/6973be15b3ff85786e35b32a</g:image_link>
+      <g:brand>Seazone</g:brand>
+      <g:product_type>Reservas</g:product_type>
+      <g:availability>in stock</g:availability>
+    </item>
+    <item>
+      <g:id>RSO0034</g:id>
+      <title>Apt. centrinho do Rosa rooftop c piscina · RSO0034</title>
+      <link>https://seazone.com.br/acomodacoes/apt-centrinho-do-rosa-rooftop-c-piscina-rso0034/5967/qualquer;semana/adults=1;kids=0;babies=0</link>
+      <description>Estilo, Estrutura Completa e Experiência Premium! Ambientes bem distribuídos compõem este apto com dois quartos climatizados com cama queen, sala integrada com sofá-cama e Smart TV, cozinha completa equipada e espaço para refeições. A sacada acrescenta leveza</description>
+      <g:image_link>https://seazone.com.br/image/693eeb8759534b2bce5e1d81</g:image_link>
+      <g:brand>Seazone</g:brand>
+      <g:product_type>Reservas</g:product_type>
+      <g:availability>in stock</g:availability>
+    </item>
+
+    <!-- Lançamentos (3) -->
+    <item>
+      <g:id>MARISTA-144-SPOT</g:id>
+      <title>Marista 144 Spot · Setor Marista, Goiânia</title>
+      <link>https://seazone.com.br/marketplace/investir/spot/marista-144-spot</link>
+      <description>Cotas do Marista 144 Spot a preço de custo, no Setor Marista, Goiânia/GO, com gestão completa da Seazone.</description>
+      <g:image_link>https://vqwgsgwbetfyoybdjmbs.supabase.co/storage/v1/object/public/spot-photos/28/4b3201bb-1b4f-4ce9-8263-eea58ac92a01.png</g:image_link>
+      <g:brand>Seazone</g:brand>
+      <g:product_type>Investir</g:product_type>
+      <g:availability>in stock</g:availability>
+    </item>
+    <item>
+      <g:id>BONITO-SPOT-II</g:id>
+      <title>Bonito Spot II · Bonito, MS</title>
+      <link>https://seazone.com.br/marketplace/investir/spot/bonito-spot-ii</link>
+      <description>Cotas do Bonito Spot II a preço de custo, em Bonito/MS, com gestão completa da Seazone.</description>
+      <g:image_link>https://vqwgsgwbetfyoybdjmbs.supabase.co/storage/v1/object/public/spot-photos/bonito-spot-ii/fotos/externas/bonito_spot_ii_0.png</g:image_link>
+      <g:brand>Seazone</g:brand>
+      <g:product_type>Investir</g:product_type>
+      <g:availability>in stock</g:availability>
+    </item>
+    <item>
+      <g:id>VISTAS-DE-ANITA-II</g:id>
+      <title>Vistas de Anitá II · Anitápolis, Serra Catarinense</title>
+      <link>https://seazone.com.br/marketplace/investir/spot/vistas-de-anita-ii</link>
+      <description>Cotas de cabanas do Vistas de Anitá II, na Serra Catarinense, em Anitápolis/SC, com gestão completa da Seazone.</description>
+      <g:image_link>https://vqwgsgwbetfyoybdjmbs.supabase.co/storage/v1/object/public/spot-photos/photo/external/23/01M3MZWCGG23TRAF8A5XA5H4KH.png</g:image_link>
+      <g:brand>Seazone</g:brand>
+      <g:product_type>Investir</g:product_type>
+      <g:availability>in stock</g:availability>
+    </item>
+
+  </channel>
+</rss>
